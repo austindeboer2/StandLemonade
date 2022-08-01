@@ -1,0 +1,15 @@
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\bin\Debug\net6.0\LemonaidStand.exe
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\bin\Debug\net6.0\LemonaidStand.deps.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\bin\Debug\net6.0\LemonaidStand.runtimeconfig.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\bin\Debug\net6.0\LemonaidStand.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\bin\Debug\net6.0\LemonaidStand.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.AssemblyInfo.cs
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\refint\LemonaidStand.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\LemonaidStand.genruntimeconfig.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\LemonaidStand\LemonaidStand\obj\Debug\net6.0\ref\LemonaidStand.dll
